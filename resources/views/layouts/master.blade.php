@@ -7,8 +7,8 @@
     <title>@yield('title')</title>
 </head>
 <body>
-
+    @include('layouts.partials.nav')
     @yield('content')
-
+    @include('layouts.partials.footer')
 </body>
 </html>
