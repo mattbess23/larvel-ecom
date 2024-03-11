@@ -9,12 +9,12 @@ class PagesController extends Controller
     //Home
     public function home()
     {
-        echo "Home";
+        return view ("pages/home");
     }
 
     //Cart
     public function cart()
     {
-        echo "Cart";
+        return view ("pages/cart");
     }
 }
