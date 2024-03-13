@@ -6,4 +6,4 @@ mix.js('resources/js/app.js', 'public/js')
            ['@babel/preset-env', { targets: { node: 'current' } }]
        ]
    })
-   .sass('resources/sass/app.scss', 'public/app.css');
+   .sass('resources/sass/app.scss', 'public/css/app.css');
