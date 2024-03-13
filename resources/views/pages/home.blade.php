@@ -2,5 +2,8 @@
 @section('name', 'Home Page')
 @section('content')
 
-This is the home page section
+<main class="homepage">
+    @include('pages.components.home.header')
+</main>
+
 @endsection
