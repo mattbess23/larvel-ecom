@@ -1,5 +1,5 @@
 @extends('layouts.master')
-@section('name', 'Home Page')
+@section('title', 'Home Page')
 @section('content')
 
 <main class="homepage">

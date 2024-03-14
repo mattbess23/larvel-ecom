@@ -4,5 +4,6 @@
         <p class="tagline">Explore Our Premium Collection Of Furniture.</p>
     </div>
     <div class="home-header-search">
-        <input type="text" name="query" placeholder="Search">
+        <input type="text" name="query" placeholder="Search....">
     </div>
+</header>
