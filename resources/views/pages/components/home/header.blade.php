@@ -1,3 +1,5 @@
+<link href="{resources\sass\app.css}}">
+
 <header class="home-header">
     <div class="home-header-text">
         <h2 class="title">Welcome to Furniture Store</h2>
