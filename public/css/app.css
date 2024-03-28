@@ -10,7 +10,7 @@ body {
 }
 
 .home-header {
-  background: linear-gradient(2deg, #ff0000 #d38eff);
+  background: linear-gradient(2deg, #d38effs);
   padding: 100px 25px 120px;
   display: flex;
   justify-content: center;
@@ -21,7 +21,7 @@ body {
 
 .home-header-text {
   text-align: center;
-  color: #fff;
+  color: #000000;
 }
 .home-header-text .title {
   font-size: 40px;
@@ -41,7 +41,7 @@ body {
   border-radius: 300px;
   text-align: center;
   padding: 10px 20px;
-  border: 2px solid #ff0000;
+  border: 2px solid #d38effs;
 }
 .home-header-search input:focus {
   outline: none;
